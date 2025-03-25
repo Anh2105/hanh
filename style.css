@@ -17,28 +17,38 @@ body {
 .title {color: #5C6AC4;}
 
 .header {
-  color: red;
-  background-color: #F1F1F1;
+  color: #FF9999;
+  background-color: papayawhip;
   text-align: center;
-  padding: 15px;
+  padding: 20px;
+  font-size: 30px;
 }
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: peachpuff;
 }
 
 .topnav a {
   float: left; 
   display: block;
-  color: #f2f2f2;
+  color: tomato;
   text-align: center;
   padding: 14px 16px;  
   text-decoration: none;
+  font-size: 20px;
 }
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: seashell;
+    color: red;
 }
 .column {float: left;}
 .column.side { width: 30%;}
 .column.middle { width: 70%;}
+
+.footer {
+  background-color: oldlace;
+  text-align: center;
+  padding: 10px;
+}
+
+
